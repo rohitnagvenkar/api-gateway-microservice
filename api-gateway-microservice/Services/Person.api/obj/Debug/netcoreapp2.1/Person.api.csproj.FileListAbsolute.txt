@@ -1,0 +1,16 @@
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Person.api.deps.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Person.api.runtimeconfig.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Person.api.runtimeconfig.dev.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Person.api.dll
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\bin\Debug\netcoreapp2.1\Person.api.pdb
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.csprojAssemblyReference.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.RazorAssemblyInfo.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.RazorAssemblyInfo.cs
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.AssemblyInfoInputs.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.AssemblyInfo.cs
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.RazorTargetAssemblyInfo.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.dll
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Services\Person.api\obj\Debug\netcoreapp2.1\Person.api.pdb
