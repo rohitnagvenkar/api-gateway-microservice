@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj": {}
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj": {
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj",
+        "projectUniqueName": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj",
         "projectName": "microServiceSLN.Desktop.Gateway",
-        "projectPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj",
+        "projectPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\microServiceSLN.Desktop.Gateway.csproj",
         "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\obj\\",
+        "outputPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Gateway\\microServiceSLN.Desktop.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

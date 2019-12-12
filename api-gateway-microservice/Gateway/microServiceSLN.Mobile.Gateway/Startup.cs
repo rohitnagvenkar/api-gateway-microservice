@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Ocelot.Middleware;
+using Ocelot.DependencyInjection;
 
 namespace microServiceSLN.Mobile.Gateway
 {
@@ -26,6 +28,7 @@ namespace microServiceSLN.Mobile.Gateway
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddOcelot();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,8 +43,9 @@ namespace microServiceSLN.Mobile.Gateway
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseOcelot().Wait();
         }
     }
 }

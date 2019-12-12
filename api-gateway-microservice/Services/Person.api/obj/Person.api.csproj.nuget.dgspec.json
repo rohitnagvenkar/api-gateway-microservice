@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {}
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
+        "projectUniqueName": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
         "projectName": "Person.api",
-        "projectPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
+        "projectPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
         "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\obj\\",
+        "outputPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,6 +51,12 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

@@ -1,0 +1,17 @@
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.csprojAssemblyReference.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.RazorAssemblyInfo.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.RazorAssemblyInfo.cs
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.AssemblyInfoInputs.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.AssemblyInfo.cs
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\ocelot.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.deps.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.runtimeconfig.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.runtimeconfig.dev.json
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.dll
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\bin\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.pdb
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.dll
+C:\Users\Rohit\Desktop\Microservice Projects\Microservices\api-gateway-microservice\Gateway\microServiceSLN.Mobile.Gateway\obj\Debug\netcoreapp2.1\microServiceSLN.Mobile.Gateway.pdb

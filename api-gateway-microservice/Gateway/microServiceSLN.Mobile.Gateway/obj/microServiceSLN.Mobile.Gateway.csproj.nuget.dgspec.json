@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[11.5.2, )"
             }
           },
           "imports": [

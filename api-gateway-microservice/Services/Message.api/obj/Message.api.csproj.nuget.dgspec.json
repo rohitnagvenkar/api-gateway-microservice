@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj": {}
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj": {
+    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj",
+        "projectUniqueName": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj",
         "projectName": "Message.api",
-        "projectPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj",
+        "projectPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\Message.api.csproj",
         "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\obj\\",
+        "outputPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Message.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
