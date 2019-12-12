@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {}
+    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {
+    "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
+        "projectUniqueName": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
         "projectName": "Person.api",
-        "projectPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
+        "projectPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\Person.api.csproj",
         "packagesPath": "C:\\Users\\Rohit\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\obj\\",
+        "outputPath": "C:\\Users\\Rohit\\Desktop\\Microservice Projects\\Microservices\\api-gateway-microservice\\Services\\Person.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
